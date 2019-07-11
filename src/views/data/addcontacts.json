@@ -1,0 +1,49 @@
+
+{
+  "recordTitle": "Record Title",
+  "accounts": [
+    {
+      "name": "Burlington Textiles Corp of America",
+      "state": "CEO",
+      "phone": "(336) 222-7000",
+      "type": "blabla@mail.ru"
+    },
+    {
+      "name": "Dickenson plc",
+      "state": "Manager",
+      "phone": "(785) 241-6200",
+      "type": "yandex@gmail.com"
+    },
+    {
+      "name": "Edge Communications",
+      "state": "Comercial",
+      "phone": "(512) 757-6000",
+      "type": "ferfd@yandex.ru"
+    },
+    {
+      "name": "Express Logistfics and Transport",
+      "state": "Russian",
+      "phone": "(503) 421-7800",
+      "type": "Customer - Channel"
+    },
+    {
+      "name": "GenePoint",
+      "state": "Dunno",
+      "phone": "(650) 867-3450",
+      "type": "Customer - Channel"
+    },
+    {
+      "name": "Grand Hotels & Resorts Ltd",
+      "state": "IL",
+      "phone": "(312) 596-1000",
+      "type": "Customer - Direct"
+    },
+    {
+      "name": "Pyramid Construction Inc.",
+      "state": "",
+      "phone": "(014) 427-4427",
+      "type": "Customer - Channel"
+    }
+  
+  ]
+}
